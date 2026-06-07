@@ -1,0 +1,55 @@
+{
+  "common": {
+    "language": "语言",
+    "search": "搜索",
+    "loading": "加载中...",
+    "error": "出错了",
+    "retry": "重试",
+    "close": "关闭",
+    "back": "返回",
+    "home": "首页"
+  },
+  "home": {
+    "title": "中国旅游 AI 行程规划 - SinoTripAI",
+    "desc": "AI 智能行程规划平台，为您提供个性化的中国各省旅游攻略",
+    "hero": "探索中国，AI 为您规划完美旅程",
+    "searchPlaceholder": "搜索省份、城市或景点...",
+    "provinces": "全国省份",
+    "popularDestinations": "热门目的地",
+    "trendingNow": "正在热议"
+  },
+  "province": {
+    "attractions": "主要景点",
+    "cities": "主要城市",
+    "articles": "旅游攻略",
+    "aiPlan": "AI 行程规划",
+    "bestSeason": "最佳季节",
+    "duration": "建议天数",
+    "budget": "预算范围",
+    "transportation": "交通方式"
+  },
+  "aiPlan": {
+    "title": "AI 旅游规划助手",
+    "description": "告诉我你的旅游计划，我为你生成详细的行程",
+    "placeholder": "请输入你的旅游需求...",
+    "send": "发送",
+    "generating": "生成中...",
+    "example": "例如：我想在云南玩5天，预算5000元，喜欢自然风光",
+    "saveItinerary": "保存行程",
+    "shareItinerary": "分享行程",
+    "editItinerary": "编辑行程"
+  },
+  "navigation": {
+    "home": "首页",
+    "destinations": "目的地",
+    "aiPlanner": "AI 规划",
+    "articles": "攻略",
+    "about": "关于"
+  },
+  "footer": {
+    "copyright": "© 2025 SinoTripAI. 保留所有权利",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contact": "联系我们"
+  }
+}

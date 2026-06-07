@@ -1,0 +1,11 @@
+name = "travel-planet"
+pages_build_output_dir = "dist"
+compatibility_date = "2025-05-31"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "travel-planet-db"
+database_id = "your-database-id"
+
+[ai]
+binding = "AI"

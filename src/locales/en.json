@@ -1,0 +1,55 @@
+{
+  "common": {
+    "language": "Language",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "back": "Back",
+    "home": "Home"
+  },
+  "home": {
+    "title": "China Travel AI Itinerary Planner - SinoTripAI",
+    "desc": "AI-powered travel planning platform providing personalized China travel guides",
+    "hero": "Explore China, AI Plans Your Perfect Journey",
+    "searchPlaceholder": "Search provinces, cities or attractions...",
+    "provinces": "Provinces",
+    "popularDestinations": "Popular Destinations",
+    "trendingNow": "Trending Now"
+  },
+  "province": {
+    "attractions": "Main Attractions",
+    "cities": "Major Cities",
+    "articles": "Travel Guides",
+    "aiPlan": "AI Itinerary",
+    "bestSeason": "Best Season",
+    "duration": "Recommended Days",
+    "budget": "Budget Range",
+    "transportation": "Transportation"
+  },
+  "aiPlan": {
+    "title": "AI Travel Planner Assistant",
+    "description": "Tell me your travel plans and I'll create a detailed itinerary for you",
+    "placeholder": "Enter your travel requirements...",
+    "send": "Send",
+    "generating": "Generating...",
+    "example": "e.g., I want to spend 5 days in Yunnan with a budget of 5000 yuan, prefer nature scenery",
+    "saveItinerary": "Save Itinerary",
+    "shareItinerary": "Share Itinerary",
+    "editItinerary": "Edit Itinerary"
+  },
+  "navigation": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "aiPlanner": "AI Planner",
+    "articles": "Guides",
+    "about": "About"
+  },
+  "footer": {
+    "copyright": "© 2025 SinoTripAI. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  }
+}

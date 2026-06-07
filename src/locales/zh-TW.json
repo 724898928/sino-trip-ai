@@ -1,0 +1,55 @@
+{
+  "common": {
+    "language": "語言",
+    "search": "搜尋",
+    "loading": "載入中...",
+    "error": "發生錯誤",
+    "retry": "重試",
+    "close": "關閉",
+    "back": "返回",
+    "home": "首頁"
+  },
+  "home": {
+    "title": "中國旅遊 AI 行程規劃 - SinoTripAI",
+    "desc": "AI 智能行程規劃平台，為您提供個性化的中國各省旅遊攻略",
+    "hero": "探索中國，AI 為您規劃完美旅程",
+    "searchPlaceholder": "搜尋省份、城市或景點...",
+    "provinces": "全國省份",
+    "popularDestinations": "熱門目的地",
+    "trendingNow": "正在熱議"
+  },
+  "province": {
+    "attractions": "主要景點",
+    "cities": "主要城市",
+    "articles": "旅遊攻略",
+    "aiPlan": "AI 行程規劃",
+    "bestSeason": "最佳季節",
+    "duration": "建議天數",
+    "budget": "預算範圍",
+    "transportation": "交通方式"
+  },
+  "aiPlan": {
+    "title": "AI 旅遊規劃助手",
+    "description": "告訴我你的旅遊計畫，我為你生成詳細的行程",
+    "placeholder": "請輸入你的旅遊需求...",
+    "send": "發送",
+    "generating": "生成中...",
+    "example": "例如：我想在雲南玩5天，預算5000元，喜歡自然風光",
+    "saveItinerary": "保存行程",
+    "shareItinerary": "分享行程",
+    "editItinerary": "編輯行程"
+  },
+  "navigation": {
+    "home": "首頁",
+    "destinations": "目的地",
+    "aiPlanner": "AI 規劃",
+    "articles": "攻略",
+    "about": "關於"
+  },
+  "footer": {
+    "copyright": "© 2025 SinoTripAI. 保留所有權利",
+    "privacy": "隱私政策",
+    "terms": "服務條款",
+    "contact": "聯絡我們"
+  }
+}
